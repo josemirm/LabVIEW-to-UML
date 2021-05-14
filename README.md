@@ -6,18 +6,18 @@ to give more UML class information and also more export options than the UML cod
 
 ## Milestones
 
-- [x] Fork, update, and tidy up repository
-- [ ] Get class data members
-- [ ] Get PNG output
-- [ ] Get SVG output
-- [ ] New GUI and error checking the path before processing
+- ✅ Fork, update, and tidy up repository
+- ⬜️ Get class data members
+- ⬜️ Get PNG output
+- ⬜️ Get SVG output
+- ⬜️ New GUI and error checking the path before processing
 
 ## License
 
 BSD 3-Clause License
-
-Copyright (c) 2020, Piotr Kruczkowski
-Copyright (c) 2021, Josemi Rodríguez
+<!-- It's a shame needing to add HTML code to Markdown to simply have vertical separation -->
+Copyright (c) 2020, Piotr Kruczkowski <br>
+Copyright (c) 2021, Josemi Rodríguez <br>
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
