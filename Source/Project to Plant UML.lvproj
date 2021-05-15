@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="19008000">
+<Project Type="Project" LVVersion="20008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -18,6 +18,8 @@
 			<Item Name="Append Usage.vi" Type="VI" URL="../SubVIs/Append Usage.vi"/>
 			<Item Name="Clean Up Name For Plant UML.vi" Type="VI" URL="../SubVIs/Clean Up Name For Plant UML.vi"/>
 			<Item Name="Class Map to Plant UML String.vi" Type="VI" URL="../SubVIs/Class Map to Plant UML String.vi"/>
+			<Item Name="Get Class Methods.vi" Type="VI" URL="../SubVIs/Get Class Methods.vi"/>
+			<Item Name="Clean Up Name from Member.vi" Type="VI" URL="../SubVIs/Clean Up Name from Member.vi"/>
 		</Item>
 		<Item Name="Project to Plant UML Diagram Script.vi" Type="VI" URL="../Project to Plant UML Diagram Script.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
